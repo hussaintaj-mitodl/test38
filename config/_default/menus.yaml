@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 543bb741-a41d-4424-a3a3-c45dd4e1fbcd
+  name: page
+  pageRef: /pages/page
+  weight: 10
+- identifier: a28a0c18-b3bb-4c35-af94-91a3ac7acd8d
+  name: page published
+  pageRef: /pages/published-page
+  weight: 20
