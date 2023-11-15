@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /media/courses/test38/screenshot-2023-11-10-at-124500-pm.png
 file_size: 140431
 file_type: image/png
@@ -9,7 +9,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: Screenshot 2023-11-10 at 12.45.00 PM.png
