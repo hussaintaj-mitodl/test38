@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test38"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test38"
+  },
+  "course_title": "test38",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "38",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test38"
+  },
+  "learning_resource_types": [],
+  "site_uid": "89d06b1e-0714-4ef8-8f0e-f626bd08f3fa",
+  "site_short_id": "test38"
+}
