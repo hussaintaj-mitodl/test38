@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test38/screenshot-2023-11-10-at-124554-pm.png
+file: /media/courses/test38-changed/screenshot-2023-11-10-at-124554-pm.png
 file_size: 394176
 file_type: image/png
 image_metadata:
