@@ -23,3 +23,9 @@ leftnav:
     includeLicenseWarning: false
   url: https://www.google.com
   weight: 50
+- identifier: external--1632447086-1701258084037
+  name: new lin k
+  params:
+    includeLicenseWarning: true
+  url: https://www.google.com
+  weight: 60
