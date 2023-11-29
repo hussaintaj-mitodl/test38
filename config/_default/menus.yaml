@@ -15,7 +15,9 @@ leftnav:
   name: External Link non-ocw
   url: https://www.google.com
   weight: 40
-- identifier: external--1632447086-1701250745375
+- identifier: external--1632447086-1701258006869
   name: External Link ocw
+  params:
+    includeLicenseWarning: false
   url: https://www.google.com
   weight: 50
