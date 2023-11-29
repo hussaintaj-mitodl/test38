@@ -6,24 +6,16 @@ leftnav:
 - identifier: a28a0c18-b3bb-4c35-af94-91a3ac7acd8d
   name: page published
   pageRef: /pages/published-page
-  params:
-    includeLicenseWarning: true
   weight: 20
 - identifier: 8311b0db-e59b-4dd1-a2d7-6ea970fd5626
   name: internal link
   pageRef: /resources/screenshot-2023-11-10-at-124554-pm_png
-  params:
-    includeLicenseWarning: true
   weight: 30
 - identifier: external--1632447086-1701250735785
   name: External Link non-ocw
-  params:
-    includeLicenseWarning: true
   url: https://www.google.com
   weight: 40
 - identifier: external--1632447086-1701250745375
   name: External Link ocw
-  params:
-    includeLicenseWarning: false
   url: https://www.google.com
   weight: 50
